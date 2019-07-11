@@ -1,0 +1,31 @@
+body {
+  background-color: hotpink;
+}
+form
+{
+  background-color: yellow;
+}
+h1 {
+  color: Red;
+  font-style: oblique;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: hotpink;
+  font-style: oblique;
+  font-size: 25px;
+  text-align: left;
+}
+h3 {
+  color: green;
+  font-style: oblique;
+  font-size: 25px;
+  text-align: left;
+}
+
+.jumbotron{
+  background-color:lightgreen;
+
+}
